@@ -1,0 +1,10 @@
+D:\Education\C#\Databases\Databases\bin\Debug\Databases.exe.config
+D:\Education\C#\Databases\Databases\bin\Debug\Databases.exe
+D:\Education\C#\Databases\Databases\bin\Debug\Databases.pdb
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.csprojResolveAssemblyReference.cache
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.Form1.resources
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.Properties.Resources.resources
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.csproj.GenerateResource.Cache
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.csproj.CoreCompileInputs.cache
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.exe
+D:\Education\C#\Databases\Databases\obj\Debug\Databases.pdb
